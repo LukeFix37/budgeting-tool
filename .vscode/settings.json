@@ -1,0 +1,10 @@
+{
+  "css.validate": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact",
+    "typescriptreact": "typescriptreact"
+  }
+}
