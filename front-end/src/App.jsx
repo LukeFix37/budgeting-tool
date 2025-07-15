@@ -76,8 +76,8 @@ const App = () => {
   const [filingStatus, setFilingStatus] = useState('single');
   const [categories, setCategories] = useState([
     { id: 1, name: 'Housing', percentage: 30 },
-    { id: 2, name: 'Food', percentage: 15 },
-    { id: 3, name: 'Transportation', percentage: 15 },
+    { id: 2, name: 'Groceries', percentage: 15 },
+    { id: 3, name: 'Gas', percentage: 15 },
     { id: 4, name: 'Savings', percentage: 20 },
     { id: 5, name: 'Entertainment', percentage: 10 },
     { id: 6, name: 'Utilities', percentage: 10 }
